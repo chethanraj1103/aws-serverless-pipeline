@@ -1,0 +1,13 @@
+﻿# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.zip
+*.exe
+*.log
+*.lock.hcl
+
+# Python cache
+__pycache__/
+*.pyc
